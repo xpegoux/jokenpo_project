@@ -1,4 +1,4 @@
-import { Jokenpo } from "./Jokenpo";
+import { Controller } from "./controller/controller"
 
-let jogador1 = new Jokenpo();
-jogador1.jogar()
+let player = new Controller;
+player.jogar();
