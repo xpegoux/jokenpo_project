@@ -1,6 +1,6 @@
 {
   "name": "jokenpo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "pedra, papel ou tesoura? escolha :D",
   "main": "index.ts",
   "scripts": {
